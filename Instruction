@@ -1,0 +1,22 @@
+
+小米盒子4c刷安卓TV
+试了好几个能进系统但没wifi驱动，感谢 zdns论坛 lv10.神功绝世 的文件，磕一个❀
+例举失败的几个：Slimbox , AIdan's ,s905l_wifi_rtl_all_atv_9.......
+
+用到了硬件：
+晶晨免拆短接器（一个HDMI短接器）
+双A头数据线
+
+burning tool 和安卓tv img镜像（783-MiBOX小米盒子4C-MDZ20AA-android 7.1.2-线刷固件包）
+（没有精简，可能内存占用会比较大，可能卡死`(*>﹏<*)′）：
+release中给出
+
+先用burning tool
+导入固件
+点开始就行，不用管
+
+盒子上插短接器
+再把双A头连盒子电脑间
+burning tool 自动识别并开始刷机，不用操作，等刷完点停止。
+
+重新上电，等初始化，连hdmi测试。
